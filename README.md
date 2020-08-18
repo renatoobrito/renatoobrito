@@ -9,8 +9,8 @@ Welcome to my profile! I'm a student of systems analysis and development, enthus
 - 🤔 I'm looking for help with a job.
 - 👋 That's it... peace and love ✌️
 
-# My word cloud by @JessicaLim8
+### My Word Cloud by: [JessicaLim8](https://github.com/JessicaLim8) ☁️ ✏️
 
-## Sushi? Yeah, I love it!
+#### Sushi? Yeah, I love it!
 
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/previous_clouds/food_cloud2.png">
