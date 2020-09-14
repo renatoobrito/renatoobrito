@@ -3,9 +3,10 @@ Welcome to my profile! I'm a student of systems analysis and development, enthus
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40renatoo_brito&style=social&url=https%3A%2F%2Ftwitter.com%2Frenatoo_brito)
 
-<!--- 🌱 I'm currently learning Vue.js.-->
+- 🌱 I'm currently learning in Vue.js.
 - 👯 I'm looking to collaborate on anything I could help.
 - 🤔 I'm looking for help with a job.
+- 🗣 Call me to swap ideas.
 - 👋 That's it... peace and love ✌️
 
 ## My Word Cloud ☁️ ✏️
