@@ -7,7 +7,6 @@ Welcome to my profile! I'm a student of systems analysis and development, enthus
 - 👯 I'm looking to collaborate on anything I could help.
 - 🤔 I'm looking for help with a job.
 - 🗣 Call me to swap ideas.
-- 🌎 The earth's locaion on [space](https://astroviewer.net/iss/en/index.php).
 - 👋 That's it... peace and love ✌️
 
 ## My Word Cloud ☁️ ✏️
