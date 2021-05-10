@@ -3,6 +3,6 @@ Welcome to my profile! I'm a JavaScript Developer, enthusiastic about learning l
 
 # Olá, eu sou o Renato! :wave:
 Bem-vindo ao meu perfil! Eu sou um Desenvolvedor JavaScript, entusiasta em aprender idiomas, meio tempo programador e admirador das estrelas.
-Obrigado pela visita e sinta-se a vontade para entrar em [contato](mailto:oficial.renatobrito@gmail.com) comigo!
+Valeu pela visita e sinta-se a vontade para entrar em [contato](mailto:oficial.renatobrito@gmail.com) comigo!
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40renatoo_brito&style=social&url=https%3A%2F%2Ftwitter.com%2Frenatoo_brito)
